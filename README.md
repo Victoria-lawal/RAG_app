@@ -1,4 +1,4 @@
-# RAG App 
+# RAG App - Neural Eng
 
 A Retrieval-Augmented Generation (RAG) app that answers questions from a document using ChromaDB and Mistral.
 

@@ -17,17 +17,17 @@ while True:
 
     results = collection.query(
         query_texts=[question],
-        n_results=1
+        n_results=3
     )
 
     context = results["documents"][0][0]
 
     print(context)
-    
+
     response = mistral.chat.complete(
         model="mistral-small-latest",
         messages=[
-            {"role": "user", "content": f"Based on this context:\n\n{context}\n\nAnswer this question: {question}"}
+            {"role": "user", "content": f"Answer ONLY using the context below. If the answer isn't in the context, say 'I don't have that information.'\n\nContext: {context}\n\nQuestion: {question}"}
         ]
     )
 

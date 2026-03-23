@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Load your document
-with open("ai engineer.txt", "r") as f:
+with open("neural_engineering.txt", "r") as f:
     text = f.read()
 
 # Split into chunks
@@ -21,6 +21,8 @@ print(f"Created {len(chunks)} chunks")
 
 # Store in ChromaDB
 client = chromadb.PersistentClient(path="./db")
+collection = client.get_or_create_collection(name="ai_engineer")
+client.delete_collection(name="ai_engineer")
 collection = client.get_or_create_collection(name="ai_engineer")
 
 for i, chunk in enumerate(chunks):
