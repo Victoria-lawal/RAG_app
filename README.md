@@ -1,4 +1,4 @@
-# RAG App — AI Engineer
+# RAG App 
 
 A Retrieval-Augmented Generation (RAG) app that answers questions from a document using ChromaDB and Mistral.
 
