@@ -1,0 +1,183 @@
+Neural Engineering - Wikipedia
+
+Neural engineering (also known as neuroengineering) is a discipline within biomedical engineering that uses engineering techniques to understand, repair, replace, or enhance neural systems. Neural engineers are uniquely qualified to solve design problems at the interface of living neural tissue and non-living constructs.
+
+The field of neural engineering draws on the fields of computational neuroscience, experimental neuroscience, neurology, electrical engineering, and signal processing of living neural tissue, and encompasses elements of robotics, cybernetics, computer engineering, neural tissue engineering, materials science, and nanotechnology. Prominent goals in the field include restoration and augmentation of human function via direct interactions between the nervous system and artificial devices, with an emphasis on quantitative methodology and engineering practices. Other prominent goals include better neuro imaging capabilities and the interpretation of neural abnormalities through quantitative data.
+
+Much current research is focused on understanding the coding and processing of information in the sensory and motor systems, quantifying how this processing is altered in a pathological state, and how it can be manipulated through interactions with artificial devices, including brain-computer interfaces and neuroprosthetics. There is also research into neuromorphic encoding, which can restore normal sensory inputs for amputees through sending electrical impulses to the brain through a transcutaneous nerve stimulation machine. Also, in order to better understand muscle intent, neuroengineers use myographic decoding through pattern recognition via electromyography. Other research concentrates more on investigation by experimentation, including the use of neural implants connected with external technology. Neurohydrodynamics is a division of neural engineering that focuses on hydrodynamics of the neurological system.
+
+HISTORY
+
+Thousands of years ago, traditional Egyptian and Roman medicine used artificial neuromodulation methods to repair and enhance neural systems. They used the electrical properties of animals for therapeutic purposes. According to an interpretation of frescoes in the tomb of the architect Ti at Saqqara, Egyptians used the Nile catfish (Synodontis batensoda and Malapterurus electricus) to stimulate tissue electrically. The first documented use of electrical stimulation for pain relief dates back to 46 AD, in the Roman Empire, when Scribonius Largus used the electric properties of torpedo fish to relieve headaches.
+
+The first use of electrocutical apparatus for medical treatment was recorded in Middlesex Hospital of London in 1767. The origins of what is now called neural engineering begin with 18th-century Italian physician, physicist, and biologist Luigi Galvani. Galvani, along with pioneers such as 19th-century physiologist Emil du Bois-Reymond, discovered that electrical signals in nerves and muscles control movement, thus marking the first understanding of the brain's electrical nature.
+
+In 1800, Alessandro Volta reported to the Royal Society that he heard an unpleasant boiling sound while applying 50 volts to his head. This was the first experiment on electrical stimulation of the human auditory system.
+
+In 1924, German physiologist and psychiatrist Hans Berger (1873-1941) discovered the brain's electrical activity (called brain waves) and, in particular, the alpha wave rhythm. This led to the invention of human electroencephalography (EEG).
+
+From the early 1900s through the 1940s, the field saw a decrease in respectability because the claims of those in the field were not supported by either plausible mechanisms or results. However, in 1956, the field experienced a resurgence when transistors were created, for the first time making possible electrical stimulation from inside the body, as opposed to all the past methods which required external stimulation, the latter being far less accurate and having much more intense effects.
+
+The use of micro-electronics led to decades of innovations in the field that would define what neural engineering is now. The cochlear implant, cardiac pacemaker, sacral nerve stimulators, intraspinal stimulator, and spinal cord epidural stimulator all came about during this time, which propelled neural engineering to the forefront of medicine by the 1990s.
+
+As neural engineering is a relatively new field, information and research into it is comparatively limited, although this is changing rapidly. The first journals specifically devoted to neural engineering, The Journal of Neural Engineering and The Journal of NeuroEngineering and Rehabilitation both began publication in 2004. International conferences on neural engineering have been held by the Institute of Electrical and Electronics Engineers (IEEE) each year since 2003.
+
+At the initial conference in 2003, one of the defining talks was given by Carol Lucas, the biomedical program director of the National Science Foundation at the time. Her talk provided an overview and gave insights into the future of neural engineering and neuroscience initiatives. She covered over 200 papers spanning an array of topics, including neural informatics, behavioral dynamics, and brain imaging.
+
+CORE PRINCIPLES
+
+The core principles of neuroengineering revolve around understanding the interplay among neurons, neural networks, and the functions of the nervous system to create measurable models that facilitate the creation of devices capable of interpreting and controlling signals to generate meaningful responses. The primary focus of progress in this field lies in constructing theoretical models that mimic entire biological systems or their functional components found in nature. The central objective of this technological advancement phase is the integration of machinery with the nervous system, enabling the monitoring and modulation of neural activity.
+
+NEURONS AND NEURAL SIGNALS
+
+One of the main goals of neural engineering is to understand how the nervous system works. Messages that the body uses to influence thoughts, senses, and movements are directed by nerve impulses transmitted across brain tissue and to the rest of the body. Neurons are the basic functional units of the nervous system; they are highly specialized cells that are capable of sending these signals that operate high and low-level functions needed for survival and quality of life. Neurons have special electro-chemical properties that allow them to process information and then transmit that information to other cells.
+
+Neuronal activity is dependent upon neural membrane potential and the changes that occur along and across it. A constant voltage, known as the membrane potential, is normally maintained by certain concentrations of specific ions across neuronal membranes. Disruptions or variations in this voltage create an imbalance, or polarization, across the membrane. Depolarization of the membrane past its threshold potential generates an action potential, which is the main source of signal transmission, known as neurotransmission of the nervous system.
+
+An action potential results in a cascade of ion flux down and across an axonal membrane, creating an effective voltage spike train or "electrical signal" which can transmit further electrical changes in other cells. Signals can be generated by electrical, chemical, magnetic, optical, and other forms of stimuli that influence the flow of charges, and thus voltage levels, across neural membranes.
+
+Presynaptic and postsynaptic neuronal activities produce oscillations that have a dual function in brain networks: neuronal oscillations are influenced by spiking inputs, and, in turn, they affect the timing of spike outputs. Thus, neurons are both generators and recipients of electromagnetic fields. This fact means that neurons interact with other neurons' oscillations and, therefore, they may change their oscillations by interacting with other electromagnetic fields. Artificial impact of electric current and magnetic fields may alter brain activity.
+
+NEURAL DECODING AND CODING
+
+The second main goal of neural engineering is to develop technological tools that can be used to understand and interact with complex neural systems. Methods of studying and generating chemical, electrical, magnetic, and optical signals, responsible for extracellular field potentials and synaptic transmission in neural tissue, aid researchers in the modulation of neural system activity. To understand the properties of neural system activity, engineers use signal processing techniques and computational modeling.
+
+To process these signals, neural engineers must translate the voltages across neural membranes into corresponding information, a process known as neural decoding. The corresponding field of neural coding studies how the brain encodes thoughts, inputs, and outputs in the form of central pattern generators (CPGs), movement vectors, the cerebellar internal model, and somatotopic maps to understand movement and sensory phenomena.
+
+Decoding of these signals in the realm of neuroscience is the process by which neurons understand the voltages that have been transmitted to them. Transformations involve the mechanisms that signals of a certain form get interpreted and then translated into another form. Engineers look to mathematically model these transformations.
+
+RECORDING METHODS
+
+There is a variety of methods being used to record neuronal signals, typically voltage or calcium concentration. Invasive methods can be intracellular or extracellular. Extracellular methods involve single-unit recordings, extracellular field potentials, and amperometry; more recently, multielectrode arrays have been used to record and mimic signals.
+
+Intracellular methods include electrode-based methods and optical methods. The electrode-based methods include sharp micro-electrode recording, the patch clamp technique, and some variations of these methods at the nano scale. Optical methods include optogenetic stimulation, which can activate or inhibit a neuron, and optical recording, typically calcium or voltage imaging, which monitors the changes in membrane voltage.
+
+NEUROMECHANICS
+
+The nervous system can be monitored and affected externally and non-invasively through neuromodulation. Neuromechanics is the coupling of neurobiology, biomechanics, sensation and perception, and robotics. Researchers are using advanced techniques and models to study the mechanical properties of neural tissues and their effects on the tissues' ability to withstand and generate force and movements as well as their vulnerability to traumatic loading.
+
+This area of research focuses on translating the transformations of information among the neuromuscular and skeletal systems to develop functions and rules governing the operation and organization of these systems. Neuromechanics can be simulated by connecting computational models of neural circuits to models of animal bodies situated in virtual physical worlds.
+
+Experimental analysis of biomechanics including the kinematics and dynamics of movements, the process and patterns of motor and sensory feedback during movement processes, and the circuit and synaptic organization of the brain responsible for motor control are all currently being researched to understand the complexity of animal movement. The study of neuromechanics is aimed at improving treatments for physiological health problems, which includes optimization of prostheses design, restoration of movement post-injury, and the design and control of mobile robots.
+
+For example, Michelle LaPlaca's lab at Georgia Tech is involved in the study of the mechanical stretch of cell cultures, shear deformation of planar cell cultures, and shear deformation of 3D cell-containing matrices. Understanding of these processes is followed by the development of functioning models capable of characterizing these systems under closed-loop conditions with specially defined parameters. By studying structures in 3D hydrogels, researchers can identify new models of nerve cell mechanoproperties.
+
+NEUROMODULATION
+
+Neuromodulation in medicine (also known as neurotherapy) aims to treat disease or injury by employing non-invasive medical-device technologies that would enhance or suppress activity of the nervous system with the delivery of pharmaceutical agents, electrical signals, or other forms of energy stimulus to re-establish functionality diminished due to regions of the brain being otherwise impaired.
+
+Different modalities are commonly used in this effort to affect neural function. The most common are externally applied electric and magnetic fields. Other domains are less commonly used: light therapy, photobiomodulation, acoustic photonic intellectual neurostimulation (APIN), and low-frequency sound stimulations, including vibroacoustic therapy and rhythmic auditory stimulation.
+
+Neuromodulator devices have been applied to ameliorate nervous system dysfunction related to Parkinson's disease, dystonia, tremor, Tourette's, chronic pain, obsessive-compulsive disorder (OCD), severe depression, and epilepsy. Deep brain stimulation is especially effective in treating movement disorders such as Parkinson's disease with high frequency stimulation of neural tissue to suppress tremors.
+
+Neuromodulation is appealing as a treatment for varying defects because it focuses in on only treating highly specific regions of the brain, contrasting with systemic treatments such as drugs that can have side effects on the body. Neuromodulation usually refers to attempts to influence the brain with sources outside the body.
+
+The most common type of neuromodulation is spinal cord stimulation, where electrical current is run through the dorsal column of the spinal cord, which causes a change in the action potential across membranes in the epidural space. This type of treatment best serves those with chronic neuropathic pain who have exhausted other options, because this does not cure pain but rather seeks to minimize it.
+
+NEURAL ENGINEERING AND REHABILITATION
+
+Neural engineering and rehabilitation apply neuroscience and engineering to find clinical solutions to problems created by nerve damage or malfunction. Engineering applied to neuroregeneration focuses on engineering devices and materials that facilitate the growth of neurons for specific applications, such as the regeneration of peripheral nerve injury, the regeneration of the spinal cord tissue for spinal cord injury, and the regeneration of retinal tissue.
+
+Genetic engineering and tissue engineering are areas developing scaffolds for the spinal cord to regrow across, thus helping neurological problems. In cases where the nervous system cannot be repaired or regrown, neural prostheses may be used to replace missing function(s).
+
+NEUROIMAGING
+
+Research focused on neural engineering utilizes devices to study how the nervous system functions and malfunctions. Neuroimaging techniques are used to investigate the activity of neural networks, as well as the structure and function of the brain. Macroscale imaging records the activity of regions of the brain, where a region is typically millimeters in size and contains millions of neurons. This can be performed on larger brains, including those in humans.
+
+Macroscale neuroimaging technologies include functional magnetic resonance imaging (fMRI), magnetic resonance imaging (MRI), positron emission tomography (PET), and computed axial tomography (CAT) scans. Functional neuroimaging studies are interested in which areas of the brain perform specific tasks. fMRI measures hemodynamic activity that is closely linked to neural activity. It is used to map metabolic responses in specific regions of the brain to a given task or stimulus.
+
+In contrast, microscale imaging records the activity of individual neurons. This can only be done on much smaller volumes, and either the brain must be exposed (as when this technique is employed on fruit flies) or a transparent organism (such a larval zebrafish) must be used. Microscale neuroimaging technologies include calcium imaging and voltage sensitive dyes, including genetically encoded voltage indicators.
+
+NEURAL NETWORKS AND MODELING
+
+Scientists can use experimental observations of neuronal systems, and theoretical and computational models of these systems, to create neural networks in the hopes of modeling neural systems in as realistic a manner as possible. One approach uses the observed neural network (the connectome) and attempts to predict detailed nervous system activation and behavior in response to a stimulus.
+
+Artificial neural networks can also be used for analyses to help understand or design neurotechnological devices, even if the neural network is not modelled on that of the biological nervous system. These networks can be built and trained based on theoretical and computational models and used to match or predict theoretically derived equations or experimental results of observed behavior of neuronal systems.
+
+Such models can compute or represent a wide variety of phenomena, such as ion concentration dynamics, channel kinetics, synaptic transmission, single-neuron computation, oxygen metabolism, or application of dynamical systems theory.
+
+NEURAL INTERFACES
+
+Neural interfaces are a major element used for studying neural systems and enhancing or replacing neuronal function with engineered devices. The goal is to develop devices that can selectively collect, from neural circuits, information about nervous system activity, and to stimulate specified regions of neural tissue to restore function or sensation of that tissue. Commonly used are microelectrode arrays and their more recent relatives such as neuropixels or Neuralink, which can be used to study, and perhaps control, neural networks.
+
+Alternatively, optical neural interfaces involve optical recordings and control by means of optogenetics, making certain brain cells sensitive to light in order to modulate their activity. Fiber optics can then be implanted in the brain to stimulate or silence targeted neurons, using light, as well as record photon activity as a proxy of neural activity instead of using electrodes.
+
+Because neural implants are inside the body, the materials that they are made of, and the long term effects of those materials, is constantly under scrutiny. One approach is to make the materials used for these devices match the mechanical properties of neural tissue in which they are placed. Neural interfacing involves temporary regeneration of biomaterial scaffolds or chronic electrodes and must manage the body's response to foreign materials.
+
+Some research suggests that biohybrid coatings are the best way to ensure protection of the body and that electrical signals are best way to receive impulses. However, almost all of these technologies have noble metals as their electrode material, so the metal aspect is still present, despite attempts to make it more biologically friendly.
+
+There are also many opportunities for error and material failures due to the very small size of the implants and the severity of the internal environment of the human body. Issues such as cracking, corrosion, delamination, and dissolution compromise the longevity and effectiveness of these products, greatly increasing the potential for long term negative effects. Some of these potential long term effects are chronic inflammation, tissue damage, and neurotoxicity if the materials inside the implants leak into the body.
+
+BRAIN-COMPUTER INTERFACES
+
+Brain-computer interfaces (BCIs) seek to directly communicate with the human nervous system to monitor and stimulate neural circuits as well as diagnose and treat intrinsic neurological dysfunction.
+
+BCIs began as a simple interface between the brain and computer that allowed disabled patients to have a direct line of communication. Then, they grew more advanced, with closed loop BCI systems becoming popular due to expanding upon not only direct communication, but restoration of lost human functions. BCIs became a tool for healing lost pathways, instead of just protecting what was already there.
+
+Now, with the rapid growth of AI, BCIs have become a pathway for collaborative intelligence with human intelligence combining with artificial intelligence to practice higher brain functions, such as decision making and problem solving. This hybrid system can repair cognitive impairments in the medical fields, and generally can increase human brain capabilities.
+
+However, there are ethical concerns regarding the implication of integrating AI with BCIs. BCIs that were originally made for pure medical advancement are now being applied in entertainment, defense, marketing, and other fields. This widespread application of a once niche medical device, especially when paired with new AI developments, has caused several in the scientific community to raise concerns about the ethical issues of human autonomy, private data, legal responsibility for actions that have basis in BCI, and accessibility to this technology from a social-justice perspective.
+
+The issues of autonomy relate back to separating a human's decision-making capabilities from a BCI and the problem of people taking accountability for their own actions, versus blaming the BCI, in legal scenarios. As these systems become more generally adopted, it can isolate people with disabilities who chose not to use them and breed resentment towards those who do not choose to take that step forward with technology. There are serious concerns about the security of brain data and if unauthorized access to this data could be used for malicious purposes.
+
+NEURAL MICROSYSTEMS
+
+Neural microsystems can be developed to interpret and deliver electrical, chemical, magnetic, and optical signals to neural tissue. They can detect variations in membrane potential and measure electrical properties such as spike population, amplitude, or rate by using electrodes, or by assessment of chemical concentrations, fluorescence light intensity, or magnetic field potential.
+
+The goal of these systems is to deliver signals that would influence neuronal tissue potential and thus stimulate the brain tissue to evoke a desired response. Microelectrode arrays are specific tools used to detect the sharp changes in voltage in the extracellular environments that occur from propagation of an action potential down an axon.
+
+Mark Allen and LaPlaca have microfabricated 3D electrodes out of cytocompatible materials, such as SU-8 and SLA polymers, that have led to the development of in vitro and in vivo microelectrode systems with the characteristics of high compliance and flexibility to minimize tissue disruption.
+
+NEUROPROSTHETICS
+
+Neuroprosthetics are devices capable of supplementing or replacing missing functions of the nervous system by stimulating the nervous system and recording its activity. Electrodes that measure the firing of nerves can be integrated with prosthetic devices and signal them to perform the function intended by the transmitted signal. Engineers researching these devices are charged with providing a chronic, safe, artificial interface with neuronal tissue.
+
+Sensory prostheses use artificial sensors to replace neural input that might be missing from biological sources. Perhaps the most successful of these sensory prostheses is the cochlear implant, which has restored the ability to hear to the deaf. A visual prosthesis for restoring vision in blind persons is still in elementary stages of development. Sensory prosthetics provide sensory feedback by transforming mechanical stimuli from the periphery into encoded information accessible by the nervous system.
+
+Motor prosthetics are devices involved in the electrical stimulation of biological neural muscular system that can substitute for control mechanisms of the brain or spinal cord. Smart prostheses can be designed to replace missing limbs; they can be controlled by neural signals by transplanting nerves from the stump of an amputee to muscles. Electrodes placed on the skin can interpret signals and then control the prosthetic limb. These prosthetics have been very successful.
+
+Functional electrical stimulation (FES) is a system aimed at restoring motor processes such as those needed for standing, walking, and hand grip strength.
+
+Neurorobotics is the study of how neural systems can be embodied and movements emulated in mechanical machines. Neurorobots are typically used to study motor control and locomotion, learning and memory selection, and value systems and action selection. By studying neurorobots in real-world environments, they are more easily observed and assessed to describe heuristics of robot function in terms of its embedded neural systems and the reactions of these systems to its environment.
+
+NEURAL TISSUE REGENERATION
+
+Neural tissue regeneration, or neuroregeneration, looks to restore function to those neurons that have been damaged, ranging from minor injuries to larger losses such as those caused by traumatic brain injury. Functional restoration of damaged nerves involves re-establishment of a continuous pathway for regenerating axons to the site of innervation. Peripheral nerve injury, spinal cord injury, traumatic brain injury, or neurodegenerative disease each present significant challenges to the regeneration of axonal bundles.
+
+The change in physical architecture induced by injury leads to growth retardation and loss of regulation. Significant advances have been made in nanotechnologies, novel biomaterials, and cell-based therapies, but results to date are insufficient for repairing neural tissue after damage. Therefore, tissue engineering attempts to achieve a combination of biomaterials together with cells and bioactive molecules to mimic the environment and regenerate while supporting the repair of new tissue.
+
+End-to-end surgical suture of damaged nerve ends can repair small gaps with autologous nerve grafts. For larger injuries, an autologous nerve graft that has been harvested from another site in the body might be used, though this process is time-consuming, costly, and requiring two surgeries.
+
+Clinical treatment for the central nervous system (CNS) is minimally available and focuses mostly on reducing collateral damage caused by bone fragments near the site of injury or inflammation. After swelling surrounding the injury lessens, patients undergo rehabilitation so that the remaining nerves can be trained to compensate for the lack of nerve function in the injured nerves. No surgical treatment currently exists to restore nerve function of CNS nerves that have been damaged.
+
+Engineering strategies for the repair of spinal cord injury are focused on creating a friendly environment for nerve regeneration. Only peripheral nervous system (PNS) nerve damage has been clinically possible so far, but advances in research of genetic techniques and biomaterials demonstrate the potential for spinal cord nerves to regenerate in permissible environments.
+
+BIOMATERIALS IN NEURAL ENGINEERING
+
+Due to the limited ability of the body to regenerate axonal bundles, neural engineering scientists develop different biomimetic strategies that can provide a bond across the lesion while generating optimal morphological, chemical, and biological signals for the recovery of nervous tissue. Neural tissue engineering defends external biomaterial supports, with cells and bioactive molecules to overcome an inhibitory environment and successfully repair the nervous system.
+
+Biomaterials have a natural origin and an identical or very similar nature to the tissue to be restored: collagen, gelatin, hyaluronic acid, alginate, and chitosan. While synthetic biomaterials, such as polycaprolactone, poly-L-lactic acid, poly-D, and l-lactic-co-glycolic acid, and conductive polymers, are a common approach in neural tissue repair, they come with certain limitations. These include reduced bioactivity, which can increase the risk of rejection after implantation.
+
+Nerve guidance channels, as parts of nerve guidance conduits, are innovative strategies focusing on larger defects and that provide conduits for sprouting axons, directing growth, and reducing growth inhibition from scar tissue. Nerve guidance channels must be readily formed into a conduit with the desired dimensions, sterilizable, tear resistance, and ease of handling and suturing. Ideally they would degrade over time with nerve regeneration, be pliable, semipermeable, maintain their shape, and have a smooth inner wall that mimics that of a real nerve.
+
+NEUROTROPHIC FACTORS
+
+Highly controlled delivery systems are needed to promote neural regeneration. Neurotrophic factors can influence development, survival, outgrowth, and branching. Neurotrophins include nerve growth factor (NGF), brain derived neurotrophic factor (BDNF), neurotrophin-3 (NT-3), and neurotrophin-4/5 (NT-4/5). Other factors are ciliary neurotrophic factor (CNTF), glial cell line-derived growth factor (GDNF), and acidic and basic fibroblast growth factor (aFGF, bFGF), which promote a range of neural responses.
+
+Fibronectin has also been shown to support nerve regeneration following traumatic brain injury in rats. Regeneration of nerves by upregulating regeneration associated genes (RAGs), neuronal cytoskeletal components, and antiapoptosis factors are looked to for future therapies. RAGs include GAP-43 and Cap-23, adhesion molecules such as the L1 family, NCAM, and N-cadherin. There is also the potential for blocking inhibitory biomolecules in the central nervous system due to glial scarring.
+
+Delivery devices must be biocompatible and stable in vivo. Some examples include osmotic pumps, silicone reservoirs, polymer matrices, and microspheres. Gene therapy techniques have also been studied to provide long-term production of growth factors and could be delivered with viral or non-viral vectors such as lipoplexes. Cells are also effective delivery vehicles for extracellular matrix (ECM) components, neurotrophic factors, and cell adhesion molecules.
+
+Olfactory ensheathing cells (OECs) and stem cells as well as genetically modified cells have been used as transplants to support nerve regeneration. Advanced therapies combine complex guidance channels and multiple stimuli that focus on internal structures that mimic the nerve architecture containing internal matrices of longitudinally aligned fibers or channels.
+
+HUMAN AUGMENTATION
+
+Augmentation of human neural systems, or human enhancement using engineering techniques, is another possible application of neural engineering. Deep brain stimulation has already been shown to enhance memory recall as noted by patients currently using this treatment for neurological disorders. Brain stimulation techniques are postulated to be able to sculpt emotions and personalities as well as enhance motivation, reduce inhibitions, etc., as requested by the individual. Ethical issues with this sort of human augmentation are a new set of questions that neural engineers have to grapple with as these studies develop.
+
+NATURAL NEUROSTIMULATION
+
+Research on natural neurostimulation also supports advances in this topic. The notion refers to an emulation in neurological treatment of natural processes that appear during pregnancy. The concept of natural neurostimulation was first introduced by Igor Val Danilov and his colleagues at Latvian universities, who provided evidence of the therapeutic effect of the complex impact of electromagnetic fields and acoustic waves together with cognitive load, scaled based on the parameters of the physical interaction between mother and fetus.
+
+This research concludes that proper nervous system development in a child during gestation is facilitated by physical interactions between the mother and fetus, with the mother's heart playing a central role. The environment of the fetus includes both physicochemical interactions with the mother's body and sounds of the mother's environment that can reach the auditory system of the fetus.
+
+The hypothesis of natural neurostimulation states that maternal physiological processes and her ecology are fundamental factors in the healthy nervous system development of the fetus. The most powerful physical forces are the low-frequency pulsed electromagnetic field and the complex acoustic wave of the mother's heart. Given that the low-frequency pulsed electromagnetic field of the mother's heart and its complex acoustic wave contribute to the development of a balanced nervous system in fetuses during pregnancy, the scaled parameters of these natural forces can treat injured nervous systems in adults.
