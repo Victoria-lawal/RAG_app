@@ -7,6 +7,7 @@ A Retrieval-Augmented Generation (RAG) app that answers questions from a documen
 - `app.py` — sanity check that your Mistral API connection works
 - `ingest.py` — loads your document, splits it into chunks, stores them in ChromaDB
 - `query.py` — takes a question, finds the relevant chunk, sends it to Mistral for an answer
+- `agent.py` — takes a topic, searches for related content, sends it to tavily for an answer and summarizes it into a markdown document
 
 ## Setup
 
@@ -18,6 +19,10 @@ Create a `.env` file:
 
 ```
 MISTRAL_API_KEY=your_key_here
+```
+TAVILY_API_KEY=your_key_here
+```
+pip install tavily-python
 ```
 
 ## How to run
@@ -34,11 +39,16 @@ Then ask questions:
 python query.py
 ```
 
+#To run agent
+```bash
+python agent.py
+```
 ## How it works
 
 1. `ingest.py` reads your `.txt` file, splits it into 500-word chunks, and stores them in a local ChromaDB database (`./db`)
 2. `query.py` takes your question, finds the most similar chunk in ChromaDB, and sends that chunk + question to Mistral
 3. Mistral answers based only on the retrieved chunk
+4. A multi-step research agent that searches the web using Tavily, summarizes results with Mistral, then automatically generates and runs a follow-up search to deepen the research, saving everything to a markdown file.
 
 ## .gitignore
 

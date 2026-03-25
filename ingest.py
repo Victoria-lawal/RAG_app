@@ -21,9 +21,9 @@ print(f"Created {len(chunks)} chunks")
 
 # Store in ChromaDB
 client = chromadb.PersistentClient(path="./db")
-collection = client.get_or_create_collection(name="ai_engineer")
-client.delete_collection(name="ai_engineer")
-collection = client.get_or_create_collection(name="ai_engineer")
+collection = client.get_or_create_collection(name="neural_engineer")
+client.delete_collection(name="neural_engineer")
+collection = client.get_or_create_collection(name="neural_engineer")
 
 for i, chunk in enumerate(chunks):
     collection.add(
