@@ -12,6 +12,22 @@ mistral = Mistral(api_key=os.getenv("MISTRAL_API_KEY"))
 client = chromadb.PersistentClient(path="./db")
 collection = client.get_or_create_collection(name="ai_engineer")
 
+with open("neural_engineering.txt", "r") as f:
+    text = f.read()
+
+def chunk_text(text, chunk_size=500, overlap=50):
+    words = text.split()
+    chunks = []
+    for i in range(0, len(words), chunk_size - overlap):
+        chunk = " ".join(words[i:i + chunk_size])
+        chunks.append(chunk)
+    return chunks
+
+if collection.count() == 0:
+    chunks = chunk_text(text)
+    for i, chunk in enumerate(chunks):
+        collection.add(documents=[chunk], ids=[f"chunk_{i}"])
+        
 question = st.text_input("Ask a question about the document:")
 
 if question:
