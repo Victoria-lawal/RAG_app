@@ -1,2 +1,4 @@
 chromadb
-ollama
+mistralai
+python-dotenv
+streamlit
